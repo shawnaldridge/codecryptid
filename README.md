@@ -11,7 +11,7 @@ Live demo: [https://nim-fawn.vercel.app](https://nim-fawn.vercel.app)
 - Easy to use
 - [Motion-Primitives](https://motion-primitives.com) for animated components.
 
-## Getting Started
+## Getting Started with nim
 ```bash
 git clone https://github.com/ibelick/nim.git
 cd nim
